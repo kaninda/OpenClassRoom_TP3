@@ -11,6 +11,11 @@
   become: yes
   with_items:
     - apache2
+    - python3-mysqldb
+    - mysql-server
+    - mysql-client
     - php-mysql
     - php
     - libapache2-mod-php
+    - net-tools
+    - wget

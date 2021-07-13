@@ -1,0 +1,12 @@
+---
+# defaults file for mysql
+
+wp_mysql_db: mydb
+wp_mysql_user: root
+wp_mysql_password: rootPassword
+wp_dbhost: databaseaka.c43txf3bprzd.us-east-1.rds.amazonaws.com:3306
+
+
+#wordpress adress
+
+wordpress_source: https://wordpress.org/latest.tar.gz
